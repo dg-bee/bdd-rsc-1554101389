@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for Kubernetes
+name: bdd-rsc-1554101389
+version: v0.1.0
